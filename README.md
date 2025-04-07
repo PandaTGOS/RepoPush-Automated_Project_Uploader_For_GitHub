@@ -27,4 +27,5 @@
      - The project will upload your project to GitHub and generate a Readme.md file in the project directory
      - You can customize the Readme.md content by modifying the `project_path` parameter in the `main.py` script
 
-**Please note that the above content is entirely original based on code analysis. The descriptions are concise but informative, and the formatting follows GitHub-flavored markdown guidelines. Technical accuracy is paramount, and each section should be at least 3-5 paragraphs or bullet points long. The project requires a GitHub token for authentication and Hugging Face's InferenceClient for LLM-based Readme.md generation.
+
+**The project requires a GitHub token for authentication and Hugging Face's InferenceClient for LLM-based Readme.md generation.**
