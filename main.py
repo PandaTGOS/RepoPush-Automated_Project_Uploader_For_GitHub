@@ -112,7 +112,7 @@ class GitHubProjectUploader:
         response = self.hf_client.text_generation(
             f"<|system|>\n{system_prompt}\n<|user|>\n{user_prompt}",
             max_new_tokens=2048,  
-            temperature=0.6,      
+            temperature=0.5,      
             do_sample=True
         )
         
