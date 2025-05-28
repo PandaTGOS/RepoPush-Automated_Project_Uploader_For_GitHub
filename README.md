@@ -1,6 +1,3 @@
-Here's a concise README.md file with the requested information:
-
-```markdown
 # RepoPush-Automated Project Upload to GitHub
 
 A llm-powered project to automatically upload local projects to your github account with a generated Readme file as well.
@@ -39,7 +36,7 @@ A simple llm-powered project to automatically upload local projects to your gith
 Install dependencies:
 ```bash
 pip install requests python-dotenv
-```
+
 
 ## Example Usage
 ```python
